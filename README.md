@@ -18,7 +18,7 @@ Sigue estos pasos para configurar el proyecto localmente:
 
 1- Clonar el repositorio, la parte del front-end y la parte del back-end:
 
-- git clone: `http://localhost:8081`
+- git clone: `https://github.com/Julieht08/screenmatch_seriesAPI.git`
   
 2- Configurar PostgreSQL:
 
