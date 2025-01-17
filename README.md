@@ -4,7 +4,7 @@
 Proyecto de screenmatch con OMDB API. Echo para un curso de back-end con Spring, para **Alura Latam y ONE - Oracle Next Education**.
 
 ## Descripción:
-Este proyecto es una aplicación back-end que utiliza la API de OMDb, para gestionar información sobre películas y series. Los datos se almacenan en una base de datos PostgreSQL y se gestionan a través de un servidor construido con Spring Boot.
+Este proyecto es una aplicación back-end que utiliza la API de OMDb, para gestionar información sobre películas y series. Los datos se almacenan en una base de datos PostgreSQL y se gestionan a través de un servidor construido con Spring Boot. La parte visual fue proporcionada por Alura Latam.
 
 ## 🛠️ Tecnologías:
 - **Lenguaje:** Java 
